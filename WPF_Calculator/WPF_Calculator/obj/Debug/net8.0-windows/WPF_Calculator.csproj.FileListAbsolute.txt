@@ -1,0 +1,134 @@
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.exe
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.deps.json
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.runtimeconfig.json
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.dll
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.pdb
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator_MarkupCompile.cache
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator_MarkupCompile.lref
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.g.resources
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.AssemblyInfoInputs.cache
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.AssemblyInfo.cs
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.dll
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\refint\WPF_Calculator.dll
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.pdb
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.genruntimeconfig.cache
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\ref\WPF_Calculator.dll
+C:\Users\VladPC\source\repos\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.exe
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.deps.json
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.runtimeconfig.json
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.dll
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.pdb
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\App.g.cs
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator_MarkupCompile.cache
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator_MarkupCompile.lref
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.g.resources
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.AssemblyInfoInputs.cache
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.AssemblyInfo.cs
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.csproj.CoreCompileInputs.cache
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.dll
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\refint\WPF_Calculator.dll
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.pdb
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.genruntimeconfig.cache
+D:\Facultate_D\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\ref\WPF_Calculator.dll
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.exe
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.deps.json
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.runtimeconfig.json
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.dll
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.pdb
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\App.g.cs
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator_MarkupCompile.cache
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator_MarkupCompile.lref
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.g.resources
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.AssemblyInfoInputs.cache
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.AssemblyInfo.cs
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.csproj.CoreCompileInputs.cache
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.dll
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\refint\WPF_Calculator.dll
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.pdb
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.genruntimeconfig.cache
+D:\Facultate_D\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\ref\WPF_Calculator.dll
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.exe
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.deps.json
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.runtimeconfig.json
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.dll
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.pdb
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator_MarkupCompile.cache
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator_MarkupCompile.lref
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.g.resources
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.AssemblyInfoInputs.cache
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.AssemblyInfo.cs
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.dll
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\refint\WPF_Calculator.dll
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.pdb
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.genruntimeconfig.cache
+C:\Users\VladPC\Desktop\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\ref\WPF_Calculator.dll
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.exe
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.deps.json
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.runtimeconfig.json
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.dll
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.pdb
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\App.g.cs
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator_MarkupCompile.cache
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator_MarkupCompile.lref
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.g.resources
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.AssemblyInfoInputs.cache
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.AssemblyInfo.cs
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.csproj.CoreCompileInputs.cache
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.dll
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\refint\WPF_Calculator.dll
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.pdb
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.genruntimeconfig.cache
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\ref\WPF_Calculator.dll
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\ProgrammerMode.g.cs
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\ProgrammerMode.baml
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\StandardMode.g.cs
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\PolishFormMode.g.cs
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\PolishFormMode.baml
+D:\FACULTATE\AN 2\SEM 2\MVP\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\StandardMode.baml
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.exe
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.deps.json
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.runtimeconfig.json
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.dll
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\bin\Debug\net8.0-windows\WPF_Calculator.pdb
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\PolishFormMode.g.cs
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\ProgrammerMode.g.cs
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\StandardMode.g.cs
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator_MarkupCompile.cache
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator_MarkupCompile.lref
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\PolishFormMode.baml
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\ProgrammerMode.baml
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\StandardMode.baml
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.g.resources
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.dll
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\refint\WPF_Calculator.dll
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.pdb
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\WPF_Calculator.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\FACULTATE\AN 2\Sem 2\MVP\Tema 1\WPF_Calculator\WPF_Calculator\obj\Debug\net8.0-windows\ref\WPF_Calculator.dll
